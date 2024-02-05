@@ -5,9 +5,9 @@ import pandas as pd
 import numpy as np
 import pydeck as pdk
 import base64
+import os
 from F2 import main as futures_main
 
-  
 
 css = """
 <style>
@@ -87,17 +87,23 @@ div.stText {
 """
 
 st.markdown(css, unsafe_allow_html=True)
-# Chemin du fichier CSV corrigé
-CSV_FILE_PATH = r"C:\Users\Felicie\.streamlit\clem2.py\PLEASE CODE ESSAI V9.csv"
-
+# Obtenez le chemin du répertoire où se trouve le script Python actuel
+base_path = os.path.dirname(__file__)
+# Combinez le chemin du répertoire avec le nom du fichier CSV pour obtenir le chemin complet
+csv_file_path = os.path.join(base_path, "PLEASE CODE ESSAI V9.csv")
+    
 # Utilisation de @st.cache_resource pour charger les données GeoJSON
 @st.cache_resource
-def load_geojson(file_path):
+def load_geojson(region):
+    # Obtenez le chemin du répertoire où se trouve le script Python actuel
+    base_path = os.path.dirname(__file__)
+    # Combinez le chemin du répertoire avec le nom du fichier GeoJSON pour obtenir le chemin complet
+    file_path = os.path.join(base_path, region)
     with open(file_path, 'r') as file:
         return json.load(file)
 
 def load_and_process_data():
-    data = pd.read_csv(CSV_FILE_PATH, delimiter=';', decimal=',')
+    data = pd.read_csv(csv_file_path, delimiter=';', decimal=',')
     data['Mean Score'] = data[['Productivity', 'Tolerance', 'Water requirement']].mean(axis=1)
     return data
 
@@ -274,9 +280,11 @@ def main():
         with open(path, "rb") as image_file:
             encoded_string = base64.b64encode(image_file.read()).decode()
         return encoded_string
-    
-    # Path to your image - this should be the path where the image is stored
-    image_path ="C:/Users/Felicie/.streamlit/clem2.py/w5.png"
+        
+    # Obtenez le chemin du répertoire où se trouve le script Python actuel
+    base_path = os.path.dirname(__file__)
+    # Combinez le chemin du répertoire avec le nom du fichier image pour obtenir le chemin complet
+    image_path = os.path.join(base_path, "w5.png")
     image_base64 = get_image_base64(image_path)
 
     # Use the image base64 string in the markdown to display the image
@@ -297,7 +305,7 @@ def main():
     # Chargement des données
     cereal_data = load_and_process_data()
     
-    # Sidebar navigation option
+  # Sidebar navigation option
     page_choice = st.sidebar.radio("Select a page", ("Welcome", "Futures"))
 
     if page_choice == "Welcome":
@@ -305,7 +313,6 @@ def main():
 
     elif page_choice == "Futures":
         futures_main()
-
 
     # Barre latérale pour les critères de sélection
     with st.sidebar:
@@ -323,21 +330,21 @@ def main():
 
         variety_choice = st.radio("Choose variety to display metrics", ("1st Variety", "2nd Variety", "3rd Variety"))
 
-    # Régions de France avec les chemins des fichiers GeoJSON
+    #Régions de France avec les chemins des fichiers GeoJSON
     regions = {
-        "Auvergne": "C:/Users/Felicie/.streamlit/clem2.py/region-auvergne-rhone-alpes.geojson",
-        "Burgundy": "C:/Users/Felicie/.streamlit/clem2.py/region-bourgogne-franche-comte.geojson",
-        "Brittany": "C:/Users/Felicie/.streamlit/clem2.py/region-bretagne.geojson",
-        "Centre Val de Loire": "C:/Users/Felicie/.streamlit/clem2.py/region-centre-val-de-loire.geojson",
-        "Corsica": "C:/Users/Felicie/.streamlit/clem2.py/region-corse.geojson",
-        "Grand Est": "C:/Users/Felicie/.streamlit/clem2.py/region-grand-est.geojson",
-        "Hauts de France": "C:/Users/Felicie/.streamlit/clem2.py/region-hauts-de-france.geojson",
-        "Île de France": "C:/Users/Felicie/.streamlit/clem2.py/region-ile-de-france.geojson",
-        "Normandy": "C:/Users/Felicie/.streamlit/clem2.py/region-normandie.geojson",
-        "Nouvelle-Aquitaine": "C:/Users/Felicie/.streamlit/clem2.py/region-nouvelle-aquitaine.geojson",
-        "Occitanie": "C:/Users/Felicie/.streamlit/clem2.py/region-occitanie.geojson",
-        "Pays de la Loire": "C:/Users/Felicie/.streamlit/clem2.py/region-pays-de-la-loire.geojson",
-        "Provence-Alpes-Côte d'Azur": "C:/Users/Felicie/.streamlit/clem2.py/region-provence-alpes-cote-d-azur.geojson"
+        "Auvergne": "region-auvergne-rhone-alpes.geojson",
+        "Burgundy": "region-bourgogne-franche-comte.geojson",
+        "Brittany": "region-bretagne.geojson",
+        "Centre Val de Loire": "region-centre-val-de-loire.geojson",
+        "Corsica": "region-corse.geojson",
+        "Grand Est": "region-grand-est.geojson",
+        "Hauts de France": "region-hauts-de-france.geojson",
+        "Île de France": "region-ile-de-france.geojson",
+        "Normandy": "region-normandie.geojson",
+        "Nouvelle-Aquitaine": "region-nouvelle-aquitaine.geojson",
+        "Occitanie": "region-occitanie.geojson",
+        "Pays de la Loire": "region-pays-de-la-loire.geojson",
+        "Provence-Alpes-Côte d'Azur": "region-provence-alpes-cote-d-azur.geojson"
     }
 
     # Création d'une carte centrée sur la France
