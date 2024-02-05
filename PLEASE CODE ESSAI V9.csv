@@ -1,0 +1,235 @@
+Wheat variety;Type of soil;Organic or not;Regions of France;Productivity;Tolerance;Water requirement;Protein share;Price per ton;Precocity;Cold resistance;Weight
+GRIMM;Silt;Conventional;Auvergne;3,79;5,66;2,58;56;908;1;4;10
+AGENOR;Silt;Conventional;Auvergne;4,26;3,19;1,1;41;1043;2;5;10
+ARCACHON;Silt;Conventional;Auvergne;0,35;4,07;6,86;33;990;1;2;9
+NUMERIC;Silt;Organic;Auvergne;8,51;6,55;3,89;64;969;1;1;8
+FILON;Silt;Organic;Auvergne;1,88;1,83;6,39;42;1026;5;4;8
+ASCOTT;Silt;Organic;Auvergne;7,62;4,55;6,44;40;953;5;5;2
+KAROQUE;Clay;Conventional;Auvergne;0,01;5,53;8,68;34;1073;2;2;10
+CENTURION;Clay;Conventional;Auvergne;4,23;5,54;6,82;98;1100;5;2;8
+FALADO;Clay;Conventional;Auvergne;4,94;3,7;3,1;60;837;2;3;5
+WINNER;Clay;Organic;Auvergne;9,69;8,41;8,85;52;850;1;3;3
+GALLOWAY;Clay;Organic;Auvergne;9,85;8,65;5,43;31;1010;1;4;9
+GREKAU;Clay;Organic;Auvergne;2,78;7,62;9,45;91;989;1;5;6
+LG ACADIE;Sand;Conventional;Auvergne;4,7;3,54;3,01;71;850;5;5;8
+ILLICO;Sand;Conventional;Auvergne;2,36;4,65;4,57;100;807;1;1;3
+IONESCO;Sand;Conventional;Auvergne;4,16;5,17;5,27;95;1087;1;5;9
+NUMERIC;Sand;Organic;Auvergne;8,48;3,43;8,34;98;845;2;2;6
+KWS ULTIM;Sand;Organic;Auvergne;8,19;2,9;4,81;34;996;2;4;3
+METROPOLIS;Sand;Organic;Auvergne;5,28;6,58;4,77;37;868;2;2;10
+CELEBRITY;Clay;Conventional;Burgundy;5,75;9,04;3;82;992;5;3;5
+NOGAL;Clay;Conventional;Burgundy;1,81;5,48;6,42;43;872;2;4;10
+OREGRAIN;Clay;Conventional;Burgundy;2,76;9,67;5,1;95;1089;1;1;10
+GENY;Clay;Organic;Burgundy;4,59;5,79;5,14;61;998;5;5;7
+PIBRAC;Clay;Organic;Burgundy;8,1;6,15;6,97;49;1039;1;4;4
+ORLOGE;Clay;Organic;Burgundy;3,89;9,9;4,75;85;976;5;4;9
+HEMINGWAY;Silt;Conventional;Burgundy;8,82;7,72;3,63;83;1027;4;1;4
+RGT MONTECARLO;Silt;Conventional;Burgundy;4,22;5,84;3,06;77;989;1;3;6
+SOLEHIO;Silt;Conventional;Burgundy;0,66;6,51;2,93;59;890;5;2;6
+LENNOX;Silt;Organic;Burgundy;2,26;5,12;5,45;86;801;1;4;5
+SU BLASON ;Silt;Organic;Burgundy;9,55;3,11;4,31;88;1019;4;5;4
+STROMBOLI;Silt;Organic;Burgundy;8,1;3,65;9,17;59;970;4;1;6
+KWS EXTASE;Sand;Conventional;Burgundy;4,51;4,6;5,83;47;1017;2;5;10
+SY MOISSON;Sand;Conventional;Burgundy;4,03;0,45;6,44;47;878;2;2;10
+TALENDOR;Sand;Conventional;Burgundy;9,7;0,5;2,88;50;908;3;4;7
+EVERY;Sand;Organic;Burgundy;0,25;1,15;9,74;48;840;2;2;1
+UNIK;Sand;Organic;Burgundy;5,14;6,43;8,85;80;970;4;2;1
+AMPLEUR;Sand;Organic;Burgundy;0,46;5,75;7,28;81;946;2;3;4
+CAMPESINO;Clay;Conventional;Brittany;5,68;9,31;3,47;86;1063;5;3;3
+ARTIMUS;Clay;Conventional;Brittany;2,23;2,73;6,32;32;963;5;1;3
+BOLOGNA;Clay;Conventional;Brittany;7,96;2,8;9,59;55;860;5;4;4
+CHEVIGNON;Clay;Organic;Brittany;5,59;2,75;2,32;47;1095;4;4;9
+DESCARTES;Clay;Organic;Brittany;7,8;1,53;8,7;81;1032;5;4;3
+DIAMENTO;Clay;Organic;Brittany;0,64;5,15;4,36;97;833;5;2;6
+JUNIOR;Sand;Conventional;Brittany;2,83;2,29;8,53;50;900;5;1;3
+FORCALI;Sand;Conventional;Brittany;1,54;5,75;0,74;38;922;5;4;8
+GONCOURT;Sand;Conventional;Brittany;1,87;5,89;8,92;83;1090;4;4;7
+LENNOX;Sand;Organic;Brittany;4,98;0,72;0,99;73;936;5;3;2
+GRAINDOR;Sand;Organic;Brittany;6,21;0,23;4,44;54;1096;3;5;4
+HYLIGO;Sand;Organic;Brittany;7,41;8,7;1,52;59;843;2;1;5
+INTENSITY;Silt;Conventional;Brittany;5,66;5,7;6,38;32;1025;1;4;1
+HYSTAR;Silt;Conventional;Brittany;8,8;2,97;4,97;93;886;5;2;6
+KWS CONSTELLIUM;Silt;Conventional;Brittany;3,39;0,12;9,31;52;955;1;3;1
+LD CHAINE;Silt;Organic;Brittany;0,3;3,61;1,33;39;896;4;2;3
+LG ABRAZO;Silt;Organic;Brittany;8,89;4,88;7,12;37;832;4;1;10
+OREGRAIN;Silt;Organic;Brittany;1,9;1,54;4,79;70;1014;1;5;9
+KAROQUE;Sand;Conventional;Centre Val de Loire;4,69;9,19;9,52;97;850;5;5;1
+PIBRAC;Sand;Conventional;Centre Val de Loire;7,26;8,03;7,23;89;805;2;4;5
+PICTAVUM;Sand;Conventional;Centre Val de Loire;7,61;8,88;7,86;36;830;1;3;8
+GWENN ;Sand;Organic;Centre Val de Loire;8,29;5,06;1,53;98;849;2;2;4
+REBELDE;Sand;Organic;Centre Val de Loire;9,42;9,08;0,42;76;1092;3;1;3
+RGT TWEETEO;Sand;Organic;Centre Val de Loire;4,82;4,73;5,66;78;872;2;3;1
+LG AIKIDO;Clay;Conventional;Centre Val de Loire;3,3;6,16;6,55;94;1099;3;4;2
+TENOR;Clay;Conventional;Centre Val de Loire;6,78;0,54;7,08;47;1026;2;1;7
+TILLSANO;Clay;Conventional;Centre Val de Loire;0,01;1,93;8,29;42;1053;5;2;8
+NUMERIC;Clay;Organic;Centre Val de Loire;9,86;3,83;4,89;90;876;1;3;4
+APRILO;Clay;Organic;Centre Val de Loire;0,7;3,73;3,06;66;885;2;4;3
+AREZZO;Clay;Organic;Centre Val de Loire;9,34;0,45;0,11;66;1064;2;2;8
+ARKEOS;Silt;Conventional;Centre Val de Loire;6,38;6,7;4,29;88;937;4;5;3
+FALADO;Silt;Conventional;Centre Val de Loire;1,56;5,37;5,2;38;1073;3;4;3
+GALLOWAY;Silt;Conventional;Centre Val de Loire;7,26;9,56;9,87;82;1075;5;4;7
+LG ARMSTRONG;Silt;Organic;Centre Val de Loire;9,03;1,28;2,73;37;958;5;5;8
+GERRY;Silt;Organic;Centre Val de Loire;0,55;3,2;9,65;98;862;3;1;10
+KWS PARFUM;Silt;Organic;Centre Val de Loire;1,77;8,08;4,07;30;943;4;4;8
+PRESTANCE;Clay;Organic;Corsica;7,15;6,54;9,3;94;833;1;3;6
+KWS ULTIM;Clay;Organic;Corsica;1,38;7,63;5,2;92;1058;4;2;8
+LG ASTROLABE;Clay;Organic;Corsica;6,16;5,13;6,7;35;966;1;2;4
+MACARON;Clay;Conventional;Corsica;6,84;2,96;8,09;46;902;1;4;2
+PICTAVUM;Clay;Conventional;Corsica;8,39;2,04;3,02;43;1014;3;3;3
+RGT CESARIO;Clay;Conventional;Corsica;5,18;6,14;3,74;68;872;4;4;4
+CHRISTOPH;Silt;Organic;Corsica;6,13;8,82;6,57;91;816;2;3;5
+RGT DISTINGO;Silt;Organic;Corsica;8,47;3,23;9,28;54;806;1;5;2
+SOISSONS ;Silt;Organic;Corsica;6,76;6,88;6,52;30;868;3;2;5
+CAMELEON;Silt;Conventional;Corsica;3,86;7,96;5,12;76;920;1;2;10
+EHOGOLD;Silt;Conventional;Corsica;4,92;1,08;6,98;74;920;2;5;3
+ENERGO;Silt;Conventional;Corsica;2,15;9,78;9,73;37;1100;4;1;8
+HANSWIN;Sand;Organic;Corsica;1,42;0,47;3,82;72;971;1;1;8
+FEELING;Sand;Organic;Corsica;2,66;8,57;8,22;42;802;5;3;6
+FORCALI;Sand;Organic;Corsica;6,86;1,56;7,19;70;847;1;5;10
+REALITY;Sand;Conventional;Corsica;0,17;4,02;8,99;58;958;5;2;9
+GLAZ;Sand;Conventional;Corsica;0,49;0,87;0,98;86;1066;1;1;7
+GRAZIARO;Sand;Conventional;Corsica;6,53;5,29;5,34;37;1045;4;5;4
+EMOTION;Clay;Organic;Grand Est;9,16;5,72;9,72;41;874;4;3;7
+GWASTELL;Clay;Organic;Grand Est;4,16;6,95;8,69;62;858;2;3;9
+KWS SHARKI;Clay;Organic;Grand Est;0,43;2,48;6,68;78;884;4;2;1
+OBIWAN;Clay;Conventional;Grand Est;9,87;0,5;4,77;55;929;1;1;4
+MONTALBANO;Clay;Conventional;Grand Est;4,66;0,75;0,74;58;977;2;2;2
+NOVIC;Clay;Conventional;Grand Est;4,41;1,21;3,2;41;1056;4;5;5
+GLENAN;Sand;Organic;Grand Est;7,78;9,37;6,49;70;882;4;4;5
+NUMERIC;Sand;Organic;Grand Est;4,06;3,55;8,86;31;832;2;3;5
+POESIE;Sand;Organic;Grand Est;3,3;5,23;1,39;63;845;2;2;1
+UNIK;Sand;Conventional;Grand Est;5,25;3,52;3,78;96;853;1;2;2
+TENGRI;Sand;Conventional;Grand Est;0,82;6,52;9,97;63;839;4;1;4
+TILLEXUS;Sand;Conventional;Grand Est;3,64;7,72;5,57;47;1100;2;4;4
+WITAL;Silt;Organic;Grand Est;4,85;3,07;3,91;42;860;2;4;10
+TILLSANO;Silt;Organic;Grand Est;1,79;3,57;2;66;922;5;2;9
+UBICUS;Silt;Organic;Grand Est;9,44;4,53;8,24;96;942;4;3;5
+COMPLICE;Silt;Conventional;Grand Est;2,65;7,7;2,35;52;937;4;5;1
+WENDELN;Silt;Conventional;Grand Est;5,34;2,14;8,19;66;1072;1;5;4
+AURELIUS;Silt;Conventional;Grand Est;7,58;6,59;0,8;46;1016;3;5;9
+NOGAL;Clay;Organic;Hauts de France;5,35;9,06;9,62;50;1079;2;2;3
+APACHE;Clay;Organic;Hauts de France;4,88;9,16;6,04;70;914;4;3;9
+LD CAPE;Clay;Organic;Hauts de France;6,14;8,22;4,44;91;992;5;2;9
+GREKAU;Clay;Conventional;Hauts de France;3,31;4,49;2,18;84;1041;5;1;6
+LD VOILE;Clay;Conventional;Hauts de France;2,74;7,64;5,22;67;928;4;4;5
+WENDELIN;Clay;Conventional;Hauts de France;4,17;1,49;4,83;73;836;1;5;2
+UBICUS;Sand;Organic;Hauts de France;1,52;5,46;3,11;51;1048;4;4;4
+APRILLO;Sand;Organic;Hauts de France;8,02;4,61;3,2;83;984;1;3;4
+ARCACHON;Sand;Organic;Hauts de France;1,03;8,56;5,3;38;905;1;4;7
+RGT LETSGO;Sand;Conventional;Hauts de France;4,86;4,61;8,68;77;885;4;3;6
+ARKEOS;Sand;Conventional;Hauts de France;7,97;0,1;8,47;70;1000;3;3;3
+DIAMENTO;Sand;Conventional;Hauts de France;9,98;5,83;9,55;67;1025;1;5;7
+ALESSIO;Silt;Organic;Hauts de France;5,85;7,26;6,68;52;919;2;3;7
+GALLOWAY;Silt;Organic;Hauts de France;6,4;6,85;7,51;65;1034;5;4;1
+GONCOURT;Silt;Organic;Hauts de France;5,87;0,12;2,44;31;905;4;1;7
+SOISSONS;Silt;Conventional;Hauts de France;0,37;4,4;9,62;86;1031;3;4;7
+HYSTAR;Silt;Conventional;Hauts de France;0,92;2,61;6,1;73;896;3;2;2
+LG ACADIE;Silt;Conventional;Hauts de France;9,83;9,22;6,08;39;1014;1;2;5
+WINNER ;Sand;Organic;Île de France;0,03;1,21;2,59;47;988;3;3;5
+SOLINDO;Sand;Organic;Île de France;2,68;8,59;6,62;55;980;5;3;5
+STROMBOLI;Sand;Organic;Île de France;8,02;4,12;7,46;59;994;5;1;8
+TALENDOR;Sand;Conventional;Île de France;1,67;4,67;7,32;45;1039;3;5;2
+TENOR;Sand;Conventional;Île de France;6,91;2,12;1,52;90;979;1;5;7
+TEOREMA;Sand;Conventional;Île de France;8,04;6,33;3,52;62;1053;3;2;10
+GIAMBOLOGNA;Clay;Organic;Île de France;4,68;1,72;2,01;98;893;1;5;6
+AREZZO;Clay;Organic;Île de France;4,41;4,4;9,26;48;1038;5;1;10
+BOLOGNA;Clay;Organic;Île de France;3,21;7,86;7,15;41;827;2;2;1
+WINNER ;Clay;Conventional;Île de France;7,93;6,37;8,33;44;1046;1;4;2
+IZALCO;Clay;Conventional;Île de France;7,16;7,65;5,36;48;1010;4;4;5
+LG ABILENE;Clay;Conventional;Île de France;3,53;6,81;4,66;40;857;2;4;4
+LG ARMSTRONG;Silt;Organic;Île de France;0,59;8,92;4,5;96;815;2;3;8
+CENTURION;Silt;Organic;Île de France;1,28;8,04;7,13;35;983;3;3;7
+HANSEL;Silt;Organic;Île de France;4,4;7,17;9,13;50;1065;5;1;9
+ILLICO;Silt;Conventional;Île de France;7,62;7,83;4,51;56;1096;1;1;1
+INTENSITY;Silt;Conventional;Île de France;4,14;0,2;4,45;61;1060;1;2;10
+IONESCO;Silt;Conventional;Île de France;1,52;7,33;0,99;46;1046;1;5;9
+ADVISOR;Silt;Conventional;Normandy;7,68;5,55;5,1;37;940;4;4;5
+JERIKO;Silt;Conventional;Normandy;8,41;7,28;2,84;68;857;1;5;1
+KWS CRITERIUEM;Silt;Conventional;Normandy;8,56;9,75;3,97;80;1059;5;4;8
+LG ARLETY;Silt;Organic;Normandy;2,95;0,64;5,75;48;1066;1;2;2
+ZEPHYR;Silt;Organic;Normandy;8,14;1,99;1,38;60;920;1;5;4
+WIWA;Silt;Organic;Normandy;2,59;8,27;0,05;56;950;2;2;2
+WAXIMUM;Sand;Conventional;Normandy;7,44;4,41;6,03;75;1067;1;5;7
+VYCKOR;Sand;Conventional;Normandy;7,63;1,46;3,45;58;1035;5;2;3
+LG ASCONA;Sand;Conventional;Normandy;1,85;5,08;9,89;63;818;5;3;7
+LENNOX;Sand;Organic;Normandy;0;2,62;6,74;33;938;3;5;5
+VERZASCA;Sand;Organic;Normandy;9,34;6,05;1,36;55;1091;4;3;10
+LG AURIGA;Sand;Organic;Normandy;9,49;2,43;9,21;32;898;2;5;7
+ADVISOR;Clay;Conventional;Normandy;1,14;7,84;5,5;88;1100;1;3;3
+NEMO;Clay;Conventional;Normandy;6,2;6,2;2,69;81;1072;1;2;10
+LID GATINEL;Clay;Conventional;Normandy;0,55;9,84;1,92;63;881;2;3;10
+LENNOX;Clay;Organic;Normandy;8,24;2,86;7,87;32;849;3;5;10
+PIBRAC;Clay;Organic;Normandy;9,28;1,01;1,88;43;994;4;5;5
+PILIER;Clay;Organic;Normandy;8,92;1,74;0,32;66;965;5;1;6
+BALZAC;Silt;Conventional;Nouvelle-Aquitaine;3,96;5,24;3,19;71;1050;1;4;4
+RGT LUXEO;Silt;Conventional;Nouvelle-Aquitaine;8,39;4,25;0,78;31;932;3;1;6
+VALBONA;Silt;Conventional;Nouvelle-Aquitaine;6,46;5,64;1,93;88;1029;5;5;9
+PRESTANCE;Silt;Organic;Nouvelle-Aquitaine;6,73;4,32;8,3;89;931;3;1;3
+RGT PALMEO;Silt;Organic;Nouvelle-Aquitaine;6,17;1,31;4,11;46;994;1;5;2
+TRUBLION;Silt;Organic;Nouvelle-Aquitaine;8,55;9,32;3,91;100;850;3;3;9
+BALZAC;Sand;Conventional;Nouvelle-Aquitaine;4,13;9,01;9,91;51;813;3;5;1
+TOGANO;Sand;Conventional;Nouvelle-Aquitaine;2,79;0,38;4,16;77;967;4;1;6
+RGT VIVENDO;Sand;Conventional;Nouvelle-Aquitaine;7,2;1,94;1,15;59;898;3;3;4
+PRESTANCE;Sand;Organic;Nouvelle-Aquitaine;5,64;5,81;3,54;66;1047;4;5;10
+TITLIS;Sand;Organic;Nouvelle-Aquitaine;3,21;1,51;1,69;35;886;3;2;1
+SOISSONS;Sand;Organic;Nouvelle-Aquitaine;6,19;7,4;6,78;76;835;1;5;3
+BALZAC;Clay;Conventional;Nouvelle-Aquitaine;0,66;1,37;9,9;83;1094;3;2;9
+SU HYCARDI;Clay;Conventional;Nouvelle-Aquitaine;5,96;0,36;8,2;48;899;2;3;8
+THIPIC;Clay;Organic;Nouvelle-Aquitaine;2,67;1,27;0,26;56;1090;2;2;4
+PRESTANCE;Clay;Organic;Nouvelle-Aquitaine;9,45;4,44;7,56;41;1043;2;5;1
+SU MOUSQUETON;Clay;Organic;Nouvelle-Aquitaine;1,47;2,11;6,19;30;1043;5;4;2
+SYLLON;Clay;Organic;Nouvelle-Aquitaine;3,95;6,43;5,89;39;874;1;5;6
+UNIK;Silt;Conventional;Occitanie;4,71;8,89;6,18;46;994;4;1;7
+WINNER;Silt;Conventional;Occitanie;9,8;3,22;8,68;48;958;3;5;2
+SU ESPADON;Silt;Conventional;Occitanie;4,11;6,23;3,54;89;900;1;4;9
+UNIK;Silt;Organic;Occitanie;4,33;8,93;8,04;59;1056;4;2;3
+SU ADDICTION;Silt;Organic;Occitanie;5,03;2,53;0,12;38;830;2;2;5
+SPACIUM;Silt;Organic;Occitanie;7,86;1,58;8,02;53;836;4;2;7
+SORBET;Sand;Conventional;Occitanie;5,39;7,88;8,49;78;836;2;1;10
+SOFRU;Sand;Conventional;Occitanie;6,75;3,89;8,66;54;1062;4;4;1
+SOFOLK;Sand;Conventional;Occitanie;4,22;6,29;7,03;74;853;5;2;8
+GENY;Sand;Organic;Occitanie;1,42;7,82;7,77;75;1032;5;2;5
+SHREK;Sand;Organic;Occitanie;5,89;5,55;0,16;75;806;1;5;8
+SHAUN;Sand;Organic;Occitanie;5;7,81;0,32;54;821;1;4;4
+GENY;Clay;Conventional;Occitanie;5,22;5,12;1,78;55;951;2;5;8
+SEPIA;Clay;Conventional;Occitanie;7,01;7,52;8,76;98;1008;2;2;8
+SENSAS;Clay;Conventional;Occitanie;5,07;3,38;7,45;33;976;5;1;10
+GENY;Clay;Organic;Occitanie;3,7;0,12;3,31;74;953;2;5;6
+SEGOR;Clay;Organic;Occitanie;7,38;6,48;5,12;42;821;4;3;5
+ROYAL;Clay;Organic;Occitanie;6,79;4,02;4,22;37;827;3;1;6
+TENOR;Silt;Conventional;Provence-Alpes-Côte d'Azur;1,13;7,3;1,44;40;822;5;2;6
+RIMBAUD;Silt;Conventional;Provence-Alpes-Côte d'Azur;1,44;8,85;1,13;70;806;5;1;8
+RGT PROPULSO;Silt;Conventional;Provence-Alpes-Côte d'Azur;3,99;2,68;5,76;61;835;4;5;9
+PROSA;Silt;Organic;Provence-Alpes-Côte d'Azur;1,25;5,33;8,79;47;862;4;5;2
+POSMEDA;Silt;Organic;Provence-Alpes-Côte d'Azur;4,96;2,86;8,14;45;806;2;1;3
+POSITIV;Silt;Organic;Provence-Alpes-Côte d'Azur;3,28;4,21;4,03;82;866;1;5;9
+PORTICCO;Sand;Conventional;Provence-Alpes-Côte d'Azur;1,12;1,03;4,13;46;804;5;2;4
+PASTORAL;Sand;Conventional;Provence-Alpes-Côte d'Azur;1,97;9,67;3,06;75;1038;4;4;4
+OVALO;Sand;Conventional;Provence-Alpes-Côte d'Azur;9,25;2,48;5,57;94;911;5;4;8
+RUBISKO;Sand;Organic;Provence-Alpes-Côte d'Azur;8,73;3,28;1,65;60;832;4;1;6
+MUSIK;Sand;Organic;Provence-Alpes-Côte d'Azur;7,4;7,78;7,19;98;861;5;5;4
+MONTECRISTO;Sand;Organic;Provence-Alpes-Côte d'Azur;0,84;4,85;1,65;54;1011;2;5;4
+RUBISKO;Clay;Conventional;Provence-Alpes-Côte d'Azur;6,79;5,19;2,63;69;939;5;4;3
+MELVIL;Clay;Conventional;Provence-Alpes-Côte d'Azur;7,65;5,62;4,77;34;950;1;4;5
+MAORI;Clay;Conventional;Provence-Alpes-Côte d'Azur;8,21;3,02;8,86;59;976;2;3;4
+RUBISKO;Clay;Organic;Provence-Alpes-Côte d'Azur;4,87;8,63;8,51;82;999;5;4;10
+LUMINON;Clay;Organic;Provence-Alpes-Côte d'Azur;8,3;0,12;2,84;75;1099;4;5;6
+LIPARI;Clay;Organic;Provence-Alpes-Côte d'Azur;9,07;1,52;9,84;73;970;2;4;5
+SOLEHIO;Clay;Conventional;Pays de la Loire;9,28;0,85;6,64;31;942;3;4;5
+LG SKYSCRAPER;Clay;Conventional;Pays de la Loire;8,47;6,01;2,72;83;991;4;5;5
+KWS SPHERE;Clay;Conventional;Pays de la Loire;6,8;9,03;0,22;34;817;4;2;10
+TENGRI;Clay;Organic;Pays de la Loire;9,73;0,95;1,18;58;850;1;1;6
+KWS EXTASE;Clay;Organic;Pays de la Loire;7,49;7,88;1,11;34;866;4;3;10
+JOHNSON;Clay;Organic;Pays de la Loire;7,47;0,23;8,48;53;1032;1;4;9
+ALESSIO;Silt;Conventional;Pays de la Loire;9,31;5,88;6,62;98;918;3;4;1
+JERIKO;Silt;Conventional;Pays de la Loire;0,93;9,41;0,73;100;981;1;3;10
+IRUN;Silt;Conventional;Pays de la Loire;2,6;4,1;3,86;82;986;1;3;8
+ALESSIO;Silt;Organic;Pays de la Loire;2,63;3,93;5,63;63;1063;3;3;6
+HYACINTH;Silt;Organic;Pays de la Loire;9,35;1,18;5,9;61;873;1;3;7
+GRAVURE;Silt;Organic;Pays de la Loire;0,15;1,84;1,55;78;998;3;4;7
+NOVIC;Sand;Conventional;Pays de la Loire;6,2;9,55;2,15;41;1057;3;2;7
+GHAYTA;Sand;Conventional;Pays de la Loire;1,73;0,88;7,71;95;1074;5;4;4
+GEDSER;Sand;Conventional;Pays de la Loire;6,6;2,33;6,2;79;858;4;4;2
+GARFIELD;Sand;Organic;Pays de la Loire;4,11;2,02;4,16;31;936;1;4;7
+FOXYL;Sand;Organic;Pays de la Loire;1,92;1,2;0,29;35;1099;5;4;7
+EOST;Sand;Organic;Pays de la Loire;5,79;4,78;8,92;33;845;4;5;1
