@@ -100,7 +100,7 @@ def main():
     # Function to load and save messages for the community forum
     def load_messages():
         try:
-            with open('forum_messages.json', 'r') as file:
+            with open('./Wouitv5/forum_messages.json', 'r') as file:
                 return json.load(file)
         except (FileNotFoundError, json.JSONDecodeError):
             return []
@@ -168,7 +168,7 @@ def main():
     display_data()
 
     # Read the data
-    df = pd.read_excel('C:/Users/Felicie/.streamlit/clem2.py/Historical Chart.xlsx')
+    df = pd.read_excel('/Wouitv5/Historical Chart.xlsx')
 
     # Convert all entries in the 'Date' column to datetime objects
     df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
